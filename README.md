@@ -18,6 +18,6 @@ A simple Python game where the player tries to guess a random number.
 - Input validation for duplicate numbers
 - Helpful hints (higher / lower)
 
-## Author
+
 Theodora
 
